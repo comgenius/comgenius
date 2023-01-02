@@ -11,7 +11,7 @@ I take pride in my ability to not only bring technical expertise to a project, b
 I am excited to bring my skills and enthusiasm to any project and believe that I have the potential to make a meaningful contribution to any team.
 
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [drcomgenius@gmail.com](mailto:drcomgenius@gmail.com)
+*   ✉️  You can contact me at [emmanuelnwokeukwu6@gmail.com](mailto:emmanuelnwokeukwu6@gmail.com)
 
 ### Skills 
 <p align="left">
