@@ -11,7 +11,9 @@ I take pride in my ability to not only bring technical expertise to a project, b
 I am excited to bring my skills and enthusiasm to any project and believe that I have the potential to make a meaningful contribution to any team.
 
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [drcomgenius@gmail.com](mailto:drcomgenius@gmail.com)### Skills 
+*   ✉️  You can contact me at [drcomgenius@gmail.com](mailto:drcomgenius@gmail.com)
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
