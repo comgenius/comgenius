@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-As a full-stack developer with 6 years of experience in coding HTML5, CSS3, JavaScript, PHP, and MySQL, I am passionate about using my skills to create dynamic and impactful web applications. I take pride in my ability to not only bring technical expertise to a project, but also in my strong communication skills and interesting personality. I believe that effective collaboration is key to the success of any project, and I am committed to being a team player who is easy to work with and always willing to go above and beyond. I am excited to bring my skills and enthusiasm to any project and believe that I have the potential to make a meaningful contribution to any team.
+As a full-stack developer with 6 years of experience in coding HTML5, CSS3, JavaScript, PHP, and MySQL, I am passionate about using my skills to create dynamic and impactful web applications.
+<br/>
+I take pride in my ability to not only bring technical expertise to a project, but also in my strong communication skills and interesting personality. I believe that effective collaboration is key to the success of any project, and I am committed to being a team player who is easy to work with and always willing to go above and beyond.
+<br/>
+I am excited to bring my skills and enthusiasm to any project and believe that I have the potential to make a meaningful contribution to any team.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [drcomgenius@gmail.com](mailto:drcomgenius@gmail.com)### Skills 
